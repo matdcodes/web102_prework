@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/36asHbZ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/36asHbZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
@@ -36,7 +36,7 @@ GIF created with LICEcap
 ## Notes
 
 * [ ] Making the navbar go above the title
-* [ ] Figuring out how to make a GIF
+* [ ] Figuring out how to make a GIF and embedding into README
 
 ## License
 
